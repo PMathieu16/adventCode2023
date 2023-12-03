@@ -1,0 +1,17 @@
+# Dossiers et fichiers générés par Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dossiers spécifiques à Yarn
+.pnp/
+.pnp.js
+.yarn/
+.yarnrc
+.yarn-integrity
+yarn.lock
+
+# Fichiers de configuration pour Yarn
+.yarnrc.yml
+.yarnignore
+.npmrc
